@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 email me on rohitjamui002@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: i also know a little bit of data structure and algorithms
+- ⚡  i also have knowledge of data structure and algorithms
 
 <!---
 rohitt2008/rohitt2008 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
