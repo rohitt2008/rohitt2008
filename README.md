@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @rohitt2008
-- 👀 I’m interested in development
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on web development projects
-- 📫 email me on rohitjamui002@gmail.com
-- 😄 Pronouns: ...
-- ⚡  i also have knowledge of data structure and algorithms
-
-<!---
-rohitt2008/rohitt2008 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+👋 Hi, I’m @rohitt2008
+👀 I’m interested in backend and full-stack development, and building reliable software
+🌱 I’m currently working with Node.js, Python, REST APIs, and improving my computer science fundamentals
+💞️ I’m looking to collaborate on backend, full-stack, and problem-solving oriented projects
+📫 Reach me at rohitjamui002@gmail.com
+⚡ I have strong knowledge of Data Structures & Algorithms, along with hands-on experience in building and testing real-world projects
 --->
