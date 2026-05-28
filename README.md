@@ -47,11 +47,12 @@ class Rohit:
 
 | Project | Stack | Description |
 |--------|-------|-------------|
-| 🧠 [alzheimer-mri-classification](https://github.com/rohitt2008/alzheimer-mri-classification) | `Python` | ML model classifying Alzheimer's stages from brain MRI scans |
+
 | 💰 [FinPilot](https://github.com/rohitt2008/FinPilot) | `JavaScript` | Intelligent personal finance assistant |
 | 📊 [personal-finance-manager](https://github.com/rohitt2008/personal-finance-manager) | `Java` | Full-featured finance tracking application |
 | 🏡 [Stayhub](https://github.com/rohitt2008/Stayhub) | `EJS` | Airbnb-style accommodation listing platform |
 | 🛒 [Vingo](https://github.com/rohitt2008/Vingo) | `JavaScript` | E-commerce / shopping platform |
+| 🧠 [alzheimer-mri-classification](https://github.com/rohitt2008/alzheimer-mri-classification) | `Python` | ML model classifying Alzheimer's stages from brain MRI scans |
 
 ---
 
@@ -90,29 +91,8 @@ class Rohit:
 
 ---
 
-## `📈 /stats`
 
-<div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohitt2008&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitt2008&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=rohitt2008&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## `🏆 /achievements`
-
-- 🦈 **Pull Shark** — Merged meaningful pull requests consistently
-- 🧠 Built a **medical AI model** for Alzheimer's MRI classification
-- 🏗️ Shipped **5+ full-stack and ML projects** end-to-end
-- 📐 Strong foundation in **Data Structures & Algorithms**
-- 🔬 Comfortable working across the **full software stack** — from DB to UI
-
----
 
 ## `📡 /connect`
 
